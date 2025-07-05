@@ -1,6 +1,5 @@
 # SIMPLE.DO
 ```
-SIMPLE.DO is a sleek, mobile-first to-do list web app built with React.js.
-It helps you stay organized with a clean dark UI,
-task filters (All / Active / Done), and swipe-to-delete functionality.
-Designed for simplicity and speed — just add, check, and done.
+Planet News is a responsive, modern news web app built using React.js and Bootstrap 5.
+It fetches the latest headlines from around the world using a live News API, and presents them in a clean, user-friendly UI.
+Includes features like category filters, search, and dark mode for a premium reading experience.
