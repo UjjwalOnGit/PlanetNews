@@ -1,8 +1,7 @@
 # 🌍 PlanetNews
 
-![PlanetNews Screenshot](./screenshot.png)
 
-[![Made With React](https://img.shields.io/badge/Made%20With-React-blue?style=for-the-badge&logo=react)](https://reactjs.org)  
+[![Made With React](https://img.shields.io/badge/Made%20With-React-blue?style=for-the-badge&logo=react)](https://reactjs.org)
 [![Built with Vite](https://img.shields.io/badge/Bundled%20with-Vite-yellow?style=for-the-badge&logo=vite)](https://vitejs.dev)  
 [![Bootstrap](https://img.shields.io/badge/VUI-Bootstrap-purple?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-28a745?style=for-the-badge)
@@ -36,7 +35,6 @@ PlanetNews brings the latest global headlines to your screen with sleek styling 
 
 
 
-![PlanetNews Light Mode](./src/assets/screenshot-light.png)
 ![PlanetNews Dark Mode](./src/assets/screenshot-dark.png)
 
 ---
